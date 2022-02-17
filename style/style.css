@@ -253,3 +253,12 @@ a.aBtn,.aBtn,a.forumBtn{ margin: 20px auto 40px;display:inline-block; width:230p
 a.aBtn:hover,.aBtn:hover{ background:#b31f23;}
 a.forumBtn{ background:#4e3cc9;}
 a.forumBtn:hover{ background:#550790;}
+
+/*partnerEnmo*/
+#partnerEnmo{ height:255px; background:url(../images/partnerEnmo.png) repeat-x;}
+#partnerEnmo .titleEnmo{ display:inline-block; line-height: 3em; float:left; margin-left: 50px; width:250px; font-size:40px; color:#fff;}
+#partnerEnmo .conEnmo{ float:right; margin-right:100px; color: #fff;}
+#partnerEnmo .conEnmo img{ display:inline-block;float:left; margin-right:30px; margin-top:10px; margin-left: 80px; width:94px;}
+#partnerEnmo .conEnmo .EnmoTxt{ float:left; width: 500px; }
+#partnerEnmo .conEnmo .EnmoTxt h3{ font-size:20px; line-height: 2.5em;}
+#partnerEnmo .conEnmo .EnmoTxt p{ font-size:15px; line-height: 1.8em; color: #d5d6d9;}
