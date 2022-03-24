@@ -195,7 +195,7 @@ a.moreCase:hover{ border:1px solid #cd0005; background: #cd0005; color: #fff;}
 #onemacBanenr p{ font-size:20px; margin-top: 40PX; font-weight: lighter; line-height: 1.6em;}
 
 /*ondownload*/
-#downloadBanenr{ height:395px; background: #e9aa34 url(../images/downListBanner.jpg) no-repeat; color: #fff; text-align: center; overflow: hidden;}
+#downloadBanenr{ height:395px; background: #550790 url(../images/downListBanner.jpg) no-repeat; color: #fff; text-align: center; overflow: hidden;}
 #downloadBanenr h2{ padding-top: 100px; font-size:50px; }
 #downloadBanenr p{ font-size:20px; margin-top: 40PX; font-weight: lighter; line-height: 1.6em;}
 
