@@ -253,6 +253,7 @@ a.aBtn,.aBtn,a.forumBtn{ margin: 20px auto 40px;display:inline-block; width:230p
 a.aBtn:hover,.aBtn:hover{ background:#b31f23;}
 a.forumBtn{ background:#4e3cc9;}
 a.forumBtn:hover{ background:#550790;}
+a.shortBtn{ width:150px;}
 
 /*partnerEnmo*/
 #partnerEnmo{ height:255px; background:url(../images/partnerEnmo.png) repeat-x;}
