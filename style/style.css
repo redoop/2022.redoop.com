@@ -70,8 +70,10 @@ a.moreLink{ color:#b31f23; font-size:16px;}
 a.moreLink:hover{ text-decoration:underline}
 body { -webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;font: normal 14px/22px "Microsoft YaHei", Arial, "Helvetica Neue", Helvetica, sans-serif;}
 .container { margin: 0 auto; max-width: 1200px;}
-a.redBtn,a.lineBtn{ display:inline-block; width: 300px; height:60px; line-height:60px; text-align: center; color:#fff; font-size:20px; border-radius: 3px; background:#ec0005; }
+a.redBtn,a.lineBtn,a.contactBtn{ display:inline-block; width: 300px; height:60px; line-height:60px; text-align: center; color:#fff; font-size:20px; border-radius: 3px; background:#ec0005; }
 a.redBtn:hover{background:#fc2529;}
+a.contactBtn{ margin-top: 50px; background:#fff; color: #ec0005;}
+a.contactBtn:hover{ background:#ec0005;  color:#fff;}
 a.lineBtn{width: 207px; height:40px; line-height:40px; background:none; border:1px solid #fff; font-weight: lighter; font-size:16px;}
 a.lineBtn:hover{ background:#fff; color: #ec0005;}
 
