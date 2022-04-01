@@ -410,7 +410,7 @@ a.shortBtn{ width:150px; margin-left:5px; margin-right:5px;}
 
 /*partnerEnmo*/
 #partnerEnmo{ height:255px; background:url(../images/partnerEnmo.png) repeat-x;}
-#partnerEnmo .titleEnmo{ display:inline-block; line-height: 3em; float:left; margin-left: 50px; width:250px; font-size:40px; color:#fff;}
+#partnerEnmo .titleEnmo{ display:inline-block; line-height: 1.5em; float:left; text-align: center;margin-left: 50px; width:320px; font-size:35px; color:#fff;}
 #partnerEnmo .conEnmo{ float:right; margin-right:100px; color: #fff;}
 #partnerEnmo .conEnmo img{ display:inline-block;float:left; margin-right:30px; margin-top:10px; margin-left: 80px; width:94px;}
 #partnerEnmo .conEnmo .EnmoTxt{ float:left; width: 500px; }
