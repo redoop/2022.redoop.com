@@ -103,8 +103,9 @@ a.lineBtn:hover{ background:#fff; color: #ec0005;}
 #footer{ background: #000; color: #8e8e8e;}
 .upText{ border-bottom: dashed 1px #626262; padding-bottom: 20px;}
 .linkText{ padding-top: 20px; font-size:12px;}
-.codeImg{ float: right; width: 150px; text-align: center;}
-.codeImg img{ width: 123px; height: 123px; margin-bottom: 10px;}
+.codeImg{ float: right; width: 300px; text-align: center;}
+.codeImg h3{font-size:20px; margin-top:20px; color:#E1E1E1; margin-bottom:20px; text-align:left; margin-left:25px;}
+.codeImg img{ width: 110px; height: 110px; }
 .aboutInfo{ float: left; width: 500px; padding-top: 15px; font-size:14px; line-height: 2.5em;}
 .aboutInfo h3{ font-size: 20px; color: #E1E1E1;}
 
